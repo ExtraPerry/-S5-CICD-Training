@@ -11,5 +11,8 @@
     "url": "git@gitlab.esiea.fr:gervais/s5-cicd-training.git"
   },
   "author": "extraperry",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
